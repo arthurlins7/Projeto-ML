@@ -3,9 +3,9 @@
 ## Grupo
 Arthur Lins - @arthurlins7
 
-Lucas Fernandes - 
+Lucas Fernandes - @Luscas-Fernandes
 
-Walter Barreto - 
+Walter Barreto - @walterbfilho
 
 ## Disciplina
 Aprendizado de Máquina - 2024.2.
