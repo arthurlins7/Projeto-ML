@@ -1,5 +1,16 @@
 # Predição e Análise de Sífilis Congênita com Machine Learning
 
+## Grupo
+Arthur Lins - @arthurlins7
+Lucas Fernandes - 
+Walter Barreto - 
+
+## Disciplina
+Aprendizado de Máquina - 2024.2.
+
+## Instituição
+CESAR School
+
 ## Descrição do Projeto
 Este projeto visa aplicar técnicas de aprendizado de máquina para analisar e prever fatores relacionados a casos de sífilis congênita no Brasil, utilizando dados de 2013 a 2021. A sífilis congênita é um problema de saúde pública de grande relevância, e este trabalho explora o uso de modelos preditivos para auxiliar na identificação de fatores de risco e propor intervenções de controle e prevenção.
 
