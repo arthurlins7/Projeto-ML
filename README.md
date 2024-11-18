@@ -18,5 +18,5 @@ As tarefas principais incluem:
 │   ├── .ipynb                 # Modelos de regressão.
 ├── relatório/                 # Relatórios gerados e gráficos.
 ├── README.md                  # Documentação do projeto.
-└── requirements.txt           # Dependências do projeto.
+└── [CESAR School] Especificação de Projeto - AM 2024.2.pdf        # Dependências do projeto.
 
