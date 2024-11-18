@@ -15,14 +15,8 @@ As tarefas principais incluem:
 ```plaintext
 ├── data/                      # Arquivos do dataset e scripts de manipulação.
 ├── notebooks/                 # Notebooks Jupyter com análises e modelos.
-│   ├── exploration.ipynb      # Análise exploratória e pré-processamento.
-│   ├── classification.ipynb   # Modelos de classificação.
-│   ├── regression.ipynb       # Modelos de regressão.
-├── src/                       # Scripts Python para modularizar o código.
-│   ├── preprocess.py          # Funções para limpeza e transformação de dados.
-│   ├── models.py              # Implementação de modelos.
-│   ├── evaluation.py          # Métricas de avaliação.
-├── results/                   # Relatórios gerados e gráficos.
+│   ├── .ipynb                 # Modelos de regressão.
+├── relatório/                 # Relatórios gerados e gráficos.
 ├── README.md                  # Documentação do projeto.
 └── requirements.txt           # Dependências do projeto.
 
