@@ -2,7 +2,9 @@
 
 ## Grupo
 Arthur Lins - @arthurlins7
+
 Lucas Fernandes - 
+
 Walter Barreto - 
 
 ## Disciplina
