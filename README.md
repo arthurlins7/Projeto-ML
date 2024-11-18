@@ -1,17 +1,20 @@
 # Predição e Análise de Sífilis Congênita com Machine Learning
 
 ## Descrição do Projeto
-Este projeto aplica técnicas de aprendizado de máquina para investigar fatores clínicos e sociodemográficos associados a casos de sífilis congênita no Brasil, com base no dataset *"Clinical and sociodemographic data on congenital syphilis cases"* (2013-2021). O objetivo é criar modelos preditivos que possam auxiliar na identificação de fatores de risco e propor intervenções preventivas para saúde pública.
+Este projeto visa aplicar técnicas de aprendizado de máquina para analisar e prever fatores relacionados a casos de sífilis congênita no Brasil, utilizando dados de 2013 a 2021. A sífilis congênita é um problema de saúde pública de grande relevância, e este trabalho explora o uso de modelos preditivos para auxiliar na identificação de fatores de risco e propor intervenções de controle e prevenção.
 
-As tarefas principais incluem:
-- Pré-processamento e análise exploratória de dados.
-- Construção de modelos de classificação para prever o resultado do exame VDRL.
-- Construção de modelos de regressão para analisar a relação com a idade dos pacientes.
-- Interpretação dos resultados para fornecer insights sobre prevenção e políticas públicas.
+As principais etapas do projeto incluem:
+1. **Pré-processamento de dados:** Identificar e tratar problemas como valores ausentes, desbalanceamento das classes e outliers.
+2. **Análise exploratória de dados (EDA):** Explorar as relações entre variáveis clínicas e sociodemográficas.
+3. **Classificação:** Construir modelos para prever o resultado de exames de sífilis congênita (VDRL\_RESULT).
+4. **Regressão:** Analisar como fatores sociodemográficos influenciam a idade dos pacientes (AGE).
+5. **Interpretação:** Extrair insights práticos para políticas de saúde pública.
 
 ---
 
 ## Estrutura do Repositório
+Este repositório contém os arquivos necessários para replicar o projeto e entender seu desenvolvimento:
+
 ```plaintext
 ├── data/                      # Arquivos do dataset e scripts de manipulação.
 ├── notebooks/                 # Notebooks Jupyter com análises e modelos.
